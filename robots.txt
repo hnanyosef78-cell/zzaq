@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zzaq-sage.vercel.app/sitemap.xml
